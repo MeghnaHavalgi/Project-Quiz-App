@@ -1,4 +1,4 @@
-###Quiz-Portal
+### Quiz-Portal
 
 The project aims at creating an online Quiz application. The application allows users to view the
 assigned quizzes and attempt those as well. Now Admin will add questions to the question bank and
