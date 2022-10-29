@@ -7,5 +7,3 @@ activities like view all questions, add questions, view all quizzes, assign quiz
 perform activities like view assigned quizzes, attempt the assigned quiz, view quiz results.
 
 
-~The project would leverage on concepts of RESTful API design, deployment using Flask, and DBMS
-concepts with SQL queries.
